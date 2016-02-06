@@ -1,6 +1,5 @@
-# Budget Saver - Planner
+# Debt DB - Ledger
 This is  simple app for managing your financial planning in real-time. 
-
 
 One of the tools we use for helping student save debt.
 
